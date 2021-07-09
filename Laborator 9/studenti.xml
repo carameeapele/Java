@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!DOCTYPE studenti[
+<!ELEMENT studenti (student)+>
+<!ELEMENT student (nume,an,grupa)>
+<!ELEMENT nume (#PCDATA)>
+<!ELEMENT an (#PCDATA)>
+<!ELEMENT grupa (#PCDATA)>
+]>
+<studenti>
+<student>
+<nume>Maria Tudoroiu</nume>
+<an>2</an>
+<grupa>3</grupa>
+</student>
+<student>
+<nume>Marian Mocofan</nume>
+<an>3</an>
+<grupa>1</grupa>
+</student>
+<student>
+<nume>Ionel Panduru</nume>
+<an>4</an>
+<grupa>2</grupa>
+</student>
+</studenti>

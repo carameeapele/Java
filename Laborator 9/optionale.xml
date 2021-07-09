@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<optionale>
+	<optional id="c1">
+		<nume>Postmodernismul si Abordarea Metafilosofica a Culturii</nume>
+		<profesor>Tudor Radac</profesor>
+		<an>3</an>
+		<url>http://www.pamc.ro</url>
+		<studenti min="20" max="160"/>
+		<recomandari>
+			<curs>PM</curs>
+			<curs>AMC</curs>
+		</recomandari>
+	</optional>
+
+	<optional id="c2">
+		<nume>Conceptul de Fenomenologie si Ego Transcedental</nume>
+		<profesor>Ana Tudose</profesor>
+		<an>4</an>
+		<url>http://www.cfet.ro</url>
+		<studenti min="30" max="140"/>
+		<recomandari>
+			<curs>CF</curs>
+			<curs>ET</curs>
+		</recomandari>
+	</optional>
+	
+	<optional id="c3">
+		<nume>Mecanismele Cunoasterii Stiintifice</nume>
+		<profesor>Matei Ionescu</profesor>
+		<an>2</an>
+		<url>http://www.mcs.ro</url>
+		<studenti min="25" max="100"/>
+		<recomandari>
+			<curs>RST</curs>
+			<curs>IMN</curs>
+		</recomandari>
+	</optional>
+</optionale>

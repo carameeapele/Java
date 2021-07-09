@@ -1,0 +1,9 @@
+Mihai,director vanzari,14/03/2019,3800
+Maria,sef resurse umane,18/04/2021,4000
+Irina,vanzator,09/04/2020,2300
+Mircea,dezvoltator,01/02/2021,2800
+Daniela,director general,08/04/2021,4700
+Cristian,vanzator,09/09/2020,2500
+Adela,tester,29/04/2021,2900
+Diana,programator,03/05/2018,2100
+Robert,director marketing,04/03/2018,2499
